@@ -12,8 +12,8 @@
 ## Hi there 👋 I'm Gabriel 😁 
  <div>
   <a href="https://github.com/gdruumond">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdruumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdruumond&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdruumond&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdruumond&layout=default&langs_count=7&theme=react"/>
    
     
 </div>
@@ -36,9 +36,4 @@
   <a href="https://www.linkedin.com/in/drumondgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href=".........." target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href=".........." target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  
-  	
- 
-  ![Snake animation](https://github.com/gdruumond/gdruumond/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
