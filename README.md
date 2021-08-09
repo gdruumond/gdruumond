@@ -13,7 +13,7 @@
  <div>
   <a href="https://github.com/gdruumond">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdruumond&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdruumond&layout=default&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdruumond&layout=compact&langs_count=7&theme=react&hide_title=true"/>
    
     
 </div>
