@@ -1,23 +1,26 @@
 <p align="center">
 <img src="https://github.com/gdruumond/Studies/blob/main/Others/giphy.gif" width="35%" height="35%" style="position:absolut" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs"></a></p></p>
 
-### Hi there, I'm Gabriel 👩‍💻
 
-:man_student: **Studying:** Computer Sciense at [UFSJ](https://www.ufsj.edu.br
+<h1 align="center"> Hi there, I'm Gabriel &#1F98A </h1>
+<p align="center">
+&#1F393 <strong>Studying:</strong> Computer Sciense at [UFSJ](https://www.ufsj.edu.br
 );
 
-🌱 **Learning:** C#, Python, JavaScript;
+&#1F331 <strong>Learning:</strong> C#, Python, JavaScript;
 
-⚡ **Fun fact:** I'm gray since I was 13 yo;
-
+&#1F30C <strong>Fun fact:</strong> I'm gray since I was 13 yo;
+</p>
 
 ---
 
  <div>
+ <p align="center">
   <a href="https://github.com/gdruumond">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=gdruumond&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true"/>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdruumond&layout=compact&langs_count=7&theme=react&hide_title=true"/>   
-</div>
+ </p>
+   </div>
 
  
 
