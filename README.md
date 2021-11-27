@@ -2,15 +2,14 @@
 <img src="https://github.com/gdruumond/Studies/blob/main/Others/giphy.gif" width="35%" height="35%" style="position:absolut" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs"></a></p></p>
 
 
-<h1 align="center"> Hi there, I'm Gabriel &#1F98A </h1>
-<p align="center">
-&#1F393 <strong>Studying:</strong> Computer Sciense at [UFSJ](https://www.ufsj.edu.br
-);
+*** Hi there, I'm Gabriel 
 
-&#1F331 <strong>Learning:</strong> C#, Python, JavaScript;
+🎓 **Studying:** Computer Sciense at [UFSJ](https://www.ufsj.edu.br);
 
-&#1F30C <strong>Fun fact:</strong> I'm gray since I was 13 yo;
-</p>
+🌱 **Learning:** C#, Python, JavaScript;
+
+✨ **Fun fact:** I'm gray since I was 13 yo;
+
 
 ---
 
