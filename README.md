@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/gdruumond/Studies/blob/main/Others/giphy.gif" width="35%" height="35%" style="position:absolut" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs"></a></p></p>
+<img src="https://github.com/gdruumond/Studies/blob/main/Others/giphy.gif" width="35%" height="35%" style="position:absolut" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs"></a></p>
 
 ### Hi there, I'm Gabriel 👩‍💻
 
@@ -36,3 +36,4 @@
   <a href="https://www.linkedin.com/in/drumondgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href=".........." target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div>
+</p>
