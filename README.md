@@ -1,4 +1,4 @@
-<img src="https://github.com/gdruumond/Studies/blob/main/Others/giphy.gif" width="35%" height="35%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs"></a></p>
+<img align="center" src="https://github.com/gdruumond/Studies/blob/main/Others/giphy.gif" width="35%" height="35%" style="position:relative" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs"></a></p>
 
 ### Hi there, I'm Gabriel 👩‍💻
 
